@@ -1,0 +1,18 @@
+{
+    "name": "Junade/CleanCode",
+    "require-dev": {
+        "phpmd/phpmd": "^2.6",
+        "friendsofphp/php-cs-fixer": "^2.13"
+    },
+    "authors": [
+        {
+            "name": "Junade Ali",
+            "email": "junade@cloudflare.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Junade\\CleanCode\\": "src/"
+        }
+    }
+}

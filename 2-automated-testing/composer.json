@@ -1,0 +1,17 @@
+{
+    "name": "Junade/AutomatedTesting",
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Junade Ali",
+            "email": "junade@cloudflare.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Junade\\AutomatedTesting\\": "src/"
+        }
+    }
+}

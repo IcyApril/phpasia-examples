@@ -1,0 +1,2 @@
+0
+a:2:{i:0;O:25:"PhpDeal\Annotation\Ensure":1:{s:5:"value";s:27:"$__result == $this->balance";}i:1;O:25:"PhpDeal\Annotation\Ensure":1:{s:5:"value";s:26:"is_numeric($this->balance)";}}
